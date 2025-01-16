@@ -6,7 +6,8 @@ namespace program
 		{
 			Console.WriteLine("Hello world!");
 			Console.WriteLine("Oh, hi, Mark Guaca!");
-			Console.ReadKey();
+            Console.WriteLine("Change for folder \"copy\"");
+            Console.ReadKey();
 		}
 	}
 }
